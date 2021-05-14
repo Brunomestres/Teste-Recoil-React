@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Fiz essa aplicação para testar o uso dos states com a biblioteca [Roil](https://recoiljs.org/).
 
 ## Available Scripts
 
